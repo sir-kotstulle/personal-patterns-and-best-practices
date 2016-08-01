@@ -1,0 +1,19 @@
+{
+  "name": "personal-patterns-and-best-practices",
+  "version": "1.0.0",
+  "description": "A personal collection of patterns and best practices for JavaScript development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir-kotstulle/personal-patterns-and-best-practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sir-kotstulle/personal-patterns-and-best-practices/issues"
+  },
+  "homepage": "https://github.com/sir-kotstulle/personal-patterns-and-best-practices#readme"
+}
